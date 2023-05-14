@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-    Parsing bold syntax
+    Parsing bld
 """
 if __name__ == "__main__":
     import sys
